@@ -12,9 +12,8 @@
     "zh_TW": "1337x是一個搜索引擎，可查找您喜歡的BitTorrent檔案。",
     "ga_IE": "1337x is inneall cuardaigh é chun do chuid torrentí is fearr leat a aimsiú."
   },
-  "url": [
-    "www.rovio.com"
-  ],
+  "url": ["rovio.com", "www.rovio.com", "investors.rovio.com"]
+  ,
   "version": "1.5.1",
   "logo": "https://redbird16.com/wp-content/uploads/2020/05/Angry-Birds-Icon-Two-Two-01-2.jpg",
   "thumbnail": "https://redbird16.com/wp-content/uploads/2020/05/Angry-Birds-Website-Presence.png",
